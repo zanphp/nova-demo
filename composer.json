@@ -10,5 +10,6 @@
             "Com\\Yourcompany\\Demo\\": "sdk/gen-php"
         },
         "classmap": []
-    }
+    },
+    "minimum-stability": "dev"
 }
